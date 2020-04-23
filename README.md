@@ -1,4 +1,4 @@
-# proyectosJava
+# Java
 
 CarControlsApplet: Applet that mimics the behaviour of the UI of a car.
 
